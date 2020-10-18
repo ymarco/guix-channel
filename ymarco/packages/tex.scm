@@ -1,4 +1,5 @@
 (define-module (ymarco packages tex)
+  #:use-module (guix packages)
   #:use-module ((guix licenses) #:prefix license:)
   #:use-module (guix build-system texlive)
   #:use-module (gnu packages tex))
