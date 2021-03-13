@@ -49,4 +49,3 @@ printed to standard output.")
    (home-page "https://github.com/mwh/dragon")
    (license gpl3)))
 
-dragon-drop
